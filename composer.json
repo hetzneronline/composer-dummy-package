@@ -1,0 +1,4 @@
+{
+    "name": "hetzner/dummy-package",
+    "description": "An empty package to reserve the hetzner vendor namespace."
+}
